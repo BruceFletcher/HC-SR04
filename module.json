@@ -1,0 +1,23 @@
+{
+  "name": "hc-sr04",
+  "version": "0.0.0",
+  "description": "Interface class for HC-SR04 ultrasonic distance measurement modules.",
+  "keywords": [
+    "HC-SR04",
+    "ultrasound",
+    "ultrasonic",
+    "distance",
+    "measurement"
+  ],
+  "author": "Bruce Fletcher",
+  "homepage": "http://",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {
+    "mbed-drivers": "^1.5.0"
+  }
+}
